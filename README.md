@@ -27,7 +27,7 @@
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siresence@gmail.com)](mailto:siresence@gmail.com)
   
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@gengar)](https://velog.io/@gengar)
+[![Tistory Badge](https://img.shields.io/badge/Blog-Tistory-lightgrey)](https://siijae.tistory.com/)
  
 </div>
 
