@@ -9,6 +9,5 @@
 <div align=left>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siresence@gmail.com)](mailto:siresence@gmail.com)
-[![Gitbook Badge](https://img.shields.io/badge/gitbook-3884FF?style=flat-square&logo=gitbook&logoColor=white)](https://devlee.gitbook.io/blog/)
  
 </div>
