@@ -8,6 +8,7 @@
 <div align=left><h1>Contacts</h1></div>
 <div align=left>
 
+[![GitBook Badge](https://img.shields.io/badge/Blog-BBDDE5?style=flat-square&logo=GitBook&logoColor=black&link=https://devlee.gitbook.io/docs)](https://devlee.gitbook.io/docs)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siresence@gmail.com)](mailto:siresence@gmail.com)
  
 </div>
