@@ -1,5 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hyunjaae"/>
+<img
+  src="https://render.gitanimals.org/farms/HyunJaae"
+  width="1200"
+  height="300"
+/>
 </a>
 
 <div align=left><h1>Tech Stack</h1></div>
