@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/hyunjaae"/>
+</a>
+
 <div align=left><h1>Tech Stack</h1></div>
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
