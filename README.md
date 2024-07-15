@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<div align=left><h1>Contacts</h1></div>
+<div align=left><h1>Blog & Email</h1></div>
 <div align=left>
 
 [![GitBook Badge](https://img.shields.io/badge/Blog-BBDDE5?style=flat-square&logo=GitBook&logoColor=black&link=https://devlee.gitbook.io/docs)](https://devlee.gitbook.io/docs)
